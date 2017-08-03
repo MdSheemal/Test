@@ -1,1 +1,4 @@
-# Test
+Im learning git hub..
+Testing
+Oodles
+technologies
